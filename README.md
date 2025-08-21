@@ -26,7 +26,7 @@ This project focuses on analyzing match-level data from the Indian Premier Leagu
 * matplotlib (data visualization)
 * seaborn (statistical data visualization)
 
-Insights
+# Insights
 Through this project, you can:
 * Identify trends and key factors that contributed to match wins
 * Highlight standout performances by players and teams
